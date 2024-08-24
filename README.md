@@ -6,8 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Clone the repository and run
 
-### `npm intall`
-### `npm start`
+```
+npm intall
+npm start
+```
 
 
 ## Available Scripts
